@@ -1,0 +1,130 @@
+1) register
+2) authorisation
+3) <<quit>>
+Enter an option number: 1
+
+Registration form:
+username: mkruhliy
+password: apps2021
+
+Successfully registered
+Now you can log in:
+
+
+Authentication form:
+username: mkruhliy
+password: apps2022
+
+Invalid password
+
+1) register
+2) authorisation
+3) <<quit>>
+Enter an option number: 2
+
+Authentication form:
+username: mkruhliy
+password: apps2021
+
+            Notebook Menu
+            1. Show all Notes
+            2. Search Notes
+            3. Add Note
+            4. Modify Note
+            5. Quit
+            
+Enter an option: 5
+Thank you for using your notebook today.
+
+
+
+------------------------------------------------------
+
+
+
+1) register
+2) authorisation
+3) <<quit>>
+Enter an option number: 1
+
+Registration form:
+username: admin
+password: admin123
+
+Successfully registered
+Now you can log in:
+
+
+Authentication form:
+username: admin
+password: admin123
+
+Would you like to ban/unban somebody? (y/n):y
+Username: mk
+1) ban
+2) unban
+>>> 1
+Enter correct name
+Username: mkruhliy
+1) ban
+2) unban
+>>> 2
+User is not banned
+Username: mkruhliy
+1) ban
+2) unban
+>>> 1
+Successfully banned
+
+            Notebook Menu
+            1. Show all Notes
+            2. Search Notes
+            3. Add Note
+            4. Modify Note
+            5. Quit
+            
+Enter an option: 5
+Thank you for using your notebook today.
+
+
+
+----------------------------------------------------
+
+
+
+1) register
+2) authorisation
+3) <<quit>>
+Enter an option number: 2
+
+Authentication form:
+username: mkruhliy
+password: apps2021
+
+You are banned
+
+1) register
+2) authorisation
+3) <<quit>>
+Enter an option number: 2
+
+Authentication form:
+username: admin
+password: admin123
+
+Would you like to ban/unban somebody? (y/n):y
+Username: mkruhliy
+1) ban
+2) unban
+>>> 2
+Successfully unbanned
+
+            Notebook Menu
+            1. Show all Notes
+            2. Search Notes
+            3. Add Note
+            4. Modify Note
+            5. Quit
+            
+Enter an option: 5
+Thank you for using your notebook today.
